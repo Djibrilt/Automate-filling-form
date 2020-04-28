@@ -68,7 +68,7 @@ filldata("YSX1bFP33cZ",valeur("AP12:AS12"))
 wb = xw.Book("wetmot2.xlsb")
 
 # OUVERTURE DU CLASSEUR ET SELECTION DE FEUILLE CONTENANT LE JEU DE DONNEES
-sheet = wb.sheets["RAPPORT_WETMOT_DU_SITE"]
+sheet = wb.sheets["rapport_site"]
 
 
 # FERMER LE FIHIER EN ARRIERE PLAN   
